@@ -1,5 +1,5 @@
 import "./App.css";
-import { Inventory } from "./components/Inventory";
+import { Inventory } from "./components/inventory";
 
 function App() {
   return (
